@@ -1,0 +1,16 @@
+.navbar{
+    background-color: white;
+    position: absolute;
+    height: 5vh;
+    width: 100vw;
+    border-bottom-left-radius: 2%;
+    border-bottom-right-radius: 2%;
+}
+
+.navbar img{
+    max-height: 40px;
+    display: flex; 
+    flex-wrap: wrap;
+    align-items: flex-start;
+    margin-top: 5px;
+}
